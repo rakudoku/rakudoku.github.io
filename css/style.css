@@ -63,3 +63,9 @@ footer.page-footer {
 .header {
     color: #26a69a;
 }
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
